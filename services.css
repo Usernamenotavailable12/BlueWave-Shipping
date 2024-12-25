@@ -1,256 +1,252 @@
 /* OVERALL ILLO */
 
 .illustration {
-    width: 100%;
-    min-height: 350px;
-    margin: 0 auto;
-    position: relative;
-    overflow: hidden;
-    position: fixed;
-    bottom: 0;
-    z-index: 1;
-    @media (max-width: 556px) {
-        display: none;
-    }
-    @media (max-width: 768px) {
-        max-height: 320px;
-        min-height: 320px;
-        .ship-scaler {
-            height: 62px !important;
-        }
-        .sea-spring {
-            display: none;
-        }
-    }
-  }
-  
-  .ground {
-    background: none;
-    overflow: hidden;
-  }
-  
-  /* CLOUDS */
-  
-  .cloud {
-    position: absolute;
-    z-index: 1;
-    bottom: 0;
-    
-  }
-  
-  .cloud_1 {
-    margin-left: 20px; 
-    margin-bottom: 200px;
-    animation: drift 22s linear infinite both;
-  }
-  
-  .cloud_2 {
-    margin-left: 200px; 
-    margin-bottom: 220px;
-    animation: drift 32s 20s linear infinite both;
-    opacity: 0;
-  }
-  
-  .cloud_3 {
-    margin-left: 800px;
-    margin-bottom: 260px;
-    animation: drift 42s 4s linear infinite both;
-    opacity: 0;
-  }
-  
-  .cloud_4 {
-    margin-left: 600px;
-    margin-bottom: 220px;
-    animation: drift 22s 5s linear infinite both;
-    opacity: 0;
-  }
-  
-  .cloud_5 {
-    margin-left: 400px;
-    margin-bottom: 180px;
-    animation: drift 32s 25s linear infinite both;
-    opacity: 0;
-  }
-  
-  .cloud_6 {
-    margin-left: 1000px;
-    margin-bottom: 210px;
-    animation: drift 52s linear infinite both;
-  }
-  
-  /* PLUSES */
-  
-  .plus {
-    position: absolute;
-    margin-bottom: 90px;
-    bottom: 0;
-  }
-  
-  .plus_1 {
-    margin-left: 50px;
-    animation: float 4s ease-in-out infinite;
-  }
-  
-  .plus_2 {
-    margin-left: 150px;
-    margin-bottom: 160px;
-    animation: float 4s 4s linear infinite;
-    opacity : 0;
-  }
-  
-  .plus_3 {
-    margin-left: 350px;
-    margin-bottom: 120px;
-    animation: float 4s 10s linear infinite;
-    opacity: 0;
-  }
-  
-  .plus_4 {
-    margin-left: 420px;
-    margin-bottom: 120px;
-    animation: float 5s 15s linear infinite;
-    opacity: 0;
-  }
-  
-  .plus_5 {
-    margin-left: 520px;
-    margin-bottom: 50px;
-    animation: float 6s linear infinite;
-  }
-  
-  .plus_6 {
-    margin-left: 620px;
-    margin-bottom: 170px;
-    animation: float 5s 6s linear infinite;
-    opacity: 0;
-  }
-  
-  .plus_7 {
-    margin-left: 720px;
-    margin-bottom: 150px;
-    animation: float 5s 12s linear infinite;
-    opacity: 0;
+  width: 100%;
+  min-height: 350px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  @media (max-width: 556px) {
     display: none;
   }
-  
-  .plus_8 {
-    margin-left: 820px;
-    margin-bottom: 80px;
-    animation: float 5s 15s linear infinite;
+  @media (max-width: 768px) {
+    max-height: 320px;
+    min-height: 320px;
+    .ship-scaler {
+      height: 62px !important;
+    }
+    .sea-spring {
+      display: none;
+    }
+  }
+}
+
+.ground {
+  background: none;
+  overflow: hidden;
+}
+
+/* CLOUDS */
+
+.cloud {
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+}
+
+.cloud_1 {
+  margin-left: 20px;
+  margin-bottom: 200px;
+  animation: drift 22s linear infinite both;
+}
+
+.cloud_2 {
+  margin-left: 200px;
+  margin-bottom: 220px;
+  animation: drift 32s 20s linear infinite both;
+  opacity: 0;
+}
+
+.cloud_3 {
+  margin-left: 800px;
+  margin-bottom: 260px;
+  animation: drift 42s 4s linear infinite both;
+  opacity: 0;
+}
+
+.cloud_4 {
+  margin-left: 600px;
+  margin-bottom: 220px;
+  animation: drift 22s 5s linear infinite both;
+  opacity: 0;
+}
+
+.cloud_5 {
+  margin-left: 400px;
+  margin-bottom: 180px;
+  animation: drift 32s 25s linear infinite both;
+  opacity: 0;
+}
+
+.cloud_6 {
+  margin-left: 1000px;
+  margin-bottom: 210px;
+  animation: drift 52s linear infinite both;
+}
+
+/* PLUSES */
+
+.plus {
+  position: absolute;
+  margin-bottom: 90px;
+  bottom: 0;
+}
+
+.plus_1 {
+  margin-left: 50px;
+  animation: float 4s ease-in-out infinite;
+}
+
+.plus_2 {
+  margin-left: 150px;
+  margin-bottom: 160px;
+  animation: float 4s 4s linear infinite;
+  opacity: 0;
+}
+
+.plus_3 {
+  margin-left: 350px;
+  margin-bottom: 120px;
+  animation: float 4s 10s linear infinite;
+  opacity: 0;
+}
+
+.plus_4 {
+  margin-left: 420px;
+  margin-bottom: 120px;
+  animation: float 5s 15s linear infinite;
+  opacity: 0;
+}
+
+.plus_5 {
+  margin-left: 520px;
+  margin-bottom: 50px;
+  animation: float 6s linear infinite;
+}
+
+.plus_6 {
+  margin-left: 620px;
+  margin-bottom: 170px;
+  animation: float 5s 6s linear infinite;
+  opacity: 0;
+}
+
+.plus_7 {
+  margin-left: 720px;
+  margin-bottom: 150px;
+  animation: float 5s 12s linear infinite;
+  opacity: 0;
+  display: none;
+}
+
+.plus_8 {
+  margin-left: 820px;
+  margin-bottom: 80px;
+  animation: float 5s 15s linear infinite;
+  opacity: 0;
+}
+
+.plus_9 {
+  margin-left: 920px;
+  margin-bottom: 150px;
+  animation: float 4s 16s linear infinite;
+  opacity: 0;
+}
+
+.plus_10 {
+  margin-left: 1020px;
+  margin-bottom: 180px;
+  animation: float 5s linear infinite;
+  display: none;
+}
+
+.plus_11 {
+  margin-left: 1120px;
+  margin-bottom: 150px;
+  animation: float 3.4s 4s linear infinite;
+  opacity: 0;
+}
+
+.plus_12 {
+  margin-left: 1220px;
+  margin-bottom: 150px;
+  animation: float 8s linear infinite;
+}
+
+/* Ship */
+.ship {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 210px;
+  z-index: 1;
+}
+
+.sea {
+  position: absolute;
+  z-index: 4;
+  margin-top: 274px;
+}
+
+/* TRUCK */
+
+.truck {
+  position: absolute;
+  z-index: 3;
+  margin-left: 600px;
+  margin-top: 210px;
+  opacity: 0;
+  transition: opacity 5s ease-in;
+}
+
+/* TRUCK DRIVING */
+
+.go {
+  opacity: 1;
+  transition: opacity 5s ease-in;
+  animation: go 15s ease-in infinite;
+}
+
+/* ANIMATIONDS */
+
+@keyframes float {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(-60px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+}
+
+@keyframes drift {
+  0% {
+    transform: translateX(0px);
     opacity: 0;
   }
-  
-  .plus_9 {
-    margin-left: 920px;
-    margin-bottom: 150px;
-    animation: float 4s 16s linear infinite;
+  50% {
+    transform: translateX(100px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(220px);
     opacity: 0;
   }
-  
-  .plus_10 {
-    margin-left: 1020px;
-    margin-bottom: 180px;
-    animation: float 5s linear infinite;
-    display: none;
+}
+
+@keyframes go {
+  0% {
+    transform: translateX(0px);
   }
-  
-  .plus_11 {
-    margin-left: 1120px;
-    margin-bottom: 150px;
-    animation: float 3.4s 4s linear infinite;
+  60% {
+    transform: translateX(585px);
+  }
+  65% {
+    transform: translateX(650px);
     opacity: 0;
   }
-  
-  .plus_12 {
-    margin-left: 1220px;
-    margin-bottom: 150px;
-    animation: float 8s linear infinite;
+  90% {
+    transform: translateX(0px);
+    opacity: 0;
   }
-  
-  /* Ship */
-  .ship {
-    position: absolute;
-    margin-left: 100px;
-    margin-top: 210px;
-    z-index: 1;
+  100% {
+    opacity: 1;
   }
-  
-  .sea {
-    position: absolute;
-    z-index: 4;
-    margin-top: 274px;
-  }
-  
-  /* TRUCK */
-  
-  .truck {
-    position: absolute;
-    z-index: 3;
-    margin-left: 600px;
-    margin-top: 210px;
-    opacity: 0; 
-    transition: opacity 5s ease-in;
-  }
-  
-  /* TRUCK DRIVING */
-  
-  .go {
-   opacity: 1;
-   transition: opacity 5s ease-in;
-   animation: go 15s ease-in infinite;
-  }
-  
-  
-  
-  /* ANIMATIONDS */
-  
-  
-  @keyframes float {
-    0%{
-      opacity: 0;
-      transform: translateY(-30px);
-    }
-    50%{
-      opacity: 1;
-      transform: translateY(-60px);
-    }
-    100%{
-      opacity: 0;
-      transform: translateY(-100px);
-    }
-  }
-  
-  @keyframes drift {
-    0% {
-      transform: translateX(0px);
-      opacity: 0;
-    }
-    50% {
-      transform: translateX(100px);
-      opacity: 1;
-    }
-    100% {
-      transform: translateX(220px);
-      opacity: 0;
-    }
-  }
-  
-  @keyframes go {
-    0%{
-      transform: translateX(0px);
-    }
-    60% {
-      transform: translateX(585px);
-    }
-    65% {
-      transform: translateX(650px);    
-      opacity: 0;
-    }
-    90% {
-      transform: translateX(0px);
-      opacity: 0;
-    }
-    100%{
-      opacity: 1;
-    }
-  }
+}
