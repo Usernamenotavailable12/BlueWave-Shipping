@@ -214,10 +214,10 @@ button:hover {
     font-family: "Ge Font";
   }
   &.cur-lang-ge {
-    background-image: url("/assets/flag-ka.svg"); /* Default flag */
+    background-image: url("assets/flag-ka.svg"); /* Default flag */
   }
   &.cur-lang-en {
-    background-image: url("/assets/flag-uk.svg"); /* Default flag */
+    background-image: url("assets/flag-uk.svg"); /* Default flag */
   }
 }
 
