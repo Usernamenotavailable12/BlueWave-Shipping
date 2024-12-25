@@ -381,6 +381,7 @@
 	overflow: hidden;
 	justify-content: center;
 	background-color: transparent;
+	box-shadow: 0px 500px 0px #25b8eecc;
   }
   .elmar .agua {
 	background-color: #25b9ee;
