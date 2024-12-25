@@ -199,5 +199,3 @@ document.addEventListener("DOMContentLoaded", () => {
   languageSelect.value = savedLanguage; // Ensure the select shows the correct value
   updateLanguageClass(savedLanguage); // Apply the appropriate class
 });
-
-
