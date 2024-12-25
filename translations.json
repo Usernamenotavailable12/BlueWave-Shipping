@@ -1,0 +1,216 @@
+{
+    "en": {
+      "header": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "oceanLogistics": "Ocean Logistics",
+        "contact": "Contact"
+      },
+      "hero": {
+        "title": "Your Trusted Partner for Global Shipping and Ocean Logistics",
+        "subtitle": "Simplified Ship Chartering, Ocean Logistics, and Maritime Agency Services",
+        "cta": "Request a Quote"
+      },
+      "intro": {
+        "text": "Welcome to BlueWave Shipping. We are your reliable logistics partner, offering global ship chartering, ocean logistics, and cargo shipping solutions. With extensive experience handling diverse cargo types—from tankers to heavy freight—we ensure efficient and secure operations along coastal and deep-sea routes."
+      },
+      "footer": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "oceanLogistics": "Ocean Logistics",
+        "contact": "Contact"
+      },
+      "about": {
+        "title": "About Us",
+        "content": "At BlueWave Shipping, we specialize in ocean logistics and ship chartering, providing a wide range of services to meet the complex demands of global shipping. Our experienced team and global network guarantee safe, efficient, and cost-optimized transportation across all maritime routes and port operations.",
+        "missionTitle": "Our Mission",
+        "missionContent": "To deliver reliable, cost-efficient, and effective ocean logistics and maritime services that meet the unique needs of our global clients.",
+        "whyChooseTitle": "Why Choose Us",
+        "whyChooseList": [
+          "<strong>Global Expertise:</strong> Operating in major international ports and maritime routes.",
+          "<strong>Comprehensive Solutions:</strong> Managing all aspects of your cargo journey, from ocean logistics to full maritime agency services.",
+          "<strong>Experienced Team:</strong> Our professional team ensures seamless and timely delivery of services."
+        ]
+      },
+      "services": {
+        "title": "Our Services",
+        "items": [
+          {
+            "title": "Ship Chartering & Turnaround",
+            "content": "Customized chartering services for vessels of all sizes. Expert handling of dry and liquid bulk, project cargo, and heavy freight."
+          },
+          {
+            "title": "Ocean Logistics Services",
+            "list": [
+              "<strong>Transport Agency:</strong> Coordinating international shipments across multiple transport modes.",
+              "<strong>Service Management:</strong> Optimizing logistics processes for cost efficiency and improved delivery times.",
+              "<strong>Warehousing & Distribution:</strong> Offering storage and inventory management solutions for streamlined distribution.",
+              "<strong>Documentation Management:</strong> Handling import/export documentation and regulatory compliance."
+            ]
+          },
+          {
+            "title": "Maritime Agency Services",
+            "list": [
+              "Berth Reservation",
+              "Pilot, Tug, and Mooring Services",
+              "Port Formalities",
+              "Cargo Operations Support",
+              "Crew Assistance",
+              "Emergency Support",
+              "Freshwater Supply",
+              "Bunkering Services",
+              "Provisioning"
+            ]
+          }
+        ],
+        "ctaText": "For more information or to request a service, contact us today!",
+        "ctaButton": "Contact Us"
+      },
+      "oceanLogistics": {
+        "title": "Ocean Logistics",
+        "intro": "At BlueWave Shipping, we take responsibility for optimizing your supply chain with our comprehensive ocean logistics services. Our global network ensures that your cargo is transported efficiently, safely, and professionally.",
+        "services": [
+          {
+            "title": "Global Transportation Management",
+            "content": "Coordinating your shipments via air, sea, and land to ensure a seamless logistics experience."
+          },
+          {
+            "title": "Container Shipping",
+            "content": "Services for full container loads (FCL) and less-than-container loads (LCL) for flexible shipping solutions."
+          },
+          {
+            "title": "Cargo Consolidation",
+            "content": "Combining smaller shipments into larger containers to achieve cost savings and efficiency."
+          },
+          {
+            "title": "Port-to-Port & Door-to-Door Services",
+            "content": "Fully managed logistics for seamless end-to-end transport of your cargo."
+          },
+          {
+            "title": "Monitoring & Control",
+            "content": "Real-time updates and tracking throughout the shipping process for complete transparency."
+          }
+        ],
+        "ctaText": "For inquiries about our ocean logistics services, feel free to get in touch with us.",
+        "ctaButton": "Contact Us"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "info": {
+          "phone": "Phone: +123 456 7890",
+          "email": "Email: info@bluewaveshipping.com",
+          "address": "Office Address: 123 Maritime Street, Ocean City"
+        }
+      }
+    },
+    "ge": {
+      "header": {
+        "home": "მთავარი",
+        "about": "ჩვენს შესახებ",
+        "services": "სერვისები",
+        "oceanLogistics": "ოკეანის ლოგისტიკა",
+        "contact": "კონტაქტი"
+      },
+      "hero": {
+        "title": "თქვენი სანდო პარტნიორი გლობალური გადაზიდვების და ოკეანის ლოგისტიკაში",
+        "subtitle": "გემების ჩარტერი, ოკეანის ლოგისტიკა და საზღვაო სააგენტოს სერვისები მარტივად",
+        "cta": "შეკითხვის გაგზავნა"
+      },
+      "intro": {
+        "text": "BlueWave Shipping-ში ჩვენ ვართ თქვენი სანდო პარტნიორი, გთავაზობთ გლობალურ გემების ჩარტერს, ოკეანის ლოგისტიკასა და ტვირთის გადაზიდვის გადაწყვეტილებებს. მრავალფეროვანი ტვირთის დამუშავების გამოცდილებით ვუზრუნველყოფთ ეფექტურ და უსაფრთხო ოპერაციებს როგორც სანაპირო, ასევე ღრმა ზღვის მარშრუტებზე."
+      },
+      "footer": {
+        "home": "მთავარი",
+        "about": "ჩვენს შესახებ",
+        "services": "სერვისები",
+        "oceanLogistics": "ოკეანის ლოგისტიკა",
+        "contact": "კონტაქტი"
+      },
+      "about": {
+        "title": "ჩვენს შესახებ",
+        "content": "BlueWave Shipping სპეციალიზირებულია ოკეანის ლოგისტიკაში და გემების ჩარტერში, გთავაზობთ მრავალფეროვან სერვისებს, რომლებიც პასუხობს გლობალური გადაზიდვების რთულ მოთხოვნებს. ჩვენი გამოცდილი გუნდი და გლობალური ქსელი უზრუნველყოფს უსაფრთხო, ეფექტურ და ხარჯთეფექტიან ტრანსპორტირებას საზღვაო მარშრუტებზე და პორტის ოპერაციებზე.",
+        "missionTitle": "ჩვენი მისია",
+        "missionContent": "სანდო, ეკონომიური და ეფექტური ოკეანის ლოგისტიკისა და საზღვაო სერვისების მიწოდება, რომლებიც პასუხობს ჩვენი გლობალური კლიენტების უნიკალურ საჭიროებებს.",
+        "whyChooseTitle": "რატომ ავირჩიოთ ჩვენ?",
+        "whyChooseList": [
+          "<strong>გლობალური ექსპერტიზა:</strong> ოპერაციები საერთაშორისო პორტებსა და საზღვაო მარშრუტებზე.",
+          "<strong>სრული გადაწყვეტილებები:</strong> ყველა ასპექტის მართვა თქვენი ტვირთის მოგზაურობისგან ოკეანის ლოგისტიკიდან საზღვაო სააგენტოს სრულ სერვისებამდე.",
+          "<strong>გამოცდილი გუნდი:</strong> ჩვენი პროფესიონალური გუნდი უზრუნველყოფს უწყვეტი და დროული სერვისის მიწოდებას."
+        ]
+      },
+      "services": {
+        "title": "ჩვენი სერვისები",
+        "items": [
+          {
+            "title": "გემების ჩარტერი და სწრაფი მომსახურება",
+            "content": "გემების ინდივიდუალური ჩარტერის სერვისები ნებისმიერი ზომის გემებისთვის. მშრალი და თხევადი ტვირთის, პროექტული ტვირთისა და მძიმე ტვირთის ექსპერტული დამუშავება."
+          },
+          {
+            "title": "ოკეანის ლოგისტიკის სერვისები",
+            "list": [
+              "<strong>ტრანსპორტირების სააგენტო:</strong> საერთაშორისო გადაზიდვების კოორდინაცია მრავალტრანსპორტული რეჟიმებში.",
+              "<strong>სერვისის მართვა:</strong> ლოგისტიკური პროცესების ოპტიმიზაცია ხარჯების ეფექტურობისთვის.",
+              "<strong>საწყობი და განაწილება:</strong> ინვენტარიზაციის მართვის გადაწყვეტები ეფექტური განაწილებისთვის.",
+              "<strong>დოკუმენტაციის მართვა:</strong> იმპორტის/ექსპორტის დოკუმენტაციისა და რეგულაციების შესაბამისობის მართვა."
+            ]
+          },
+          {
+            "title": "საზღვაო სააგენტოს სერვისები",
+            "list": [
+              "ნავმისადგომის დაჯავშნა",
+              "პილოტი, ბუქსი და მოჩერება",
+              "პორტის ფორმალობები",
+              "ტვირთის ოპერაციების მხარდაჭერა",
+              "ეკიპაჟის დახმარება",
+              "საგანგებო დახმარება",
+              "ტკბილი წყლის მიწოდება",
+              "ბუნკერის მომსახურება",
+              "მომარაგება"
+            ]
+          }
+        ],
+        "ctaText": "დამატებითი ინფორმაციისთვის ან სერვისის შეკვეთისთვის, დაგვიკავშირდით დღესვე!",
+        "ctaButton": "დაგვიკავშირდით"
+      },
+      "oceanLogistics": {
+        "title": "ოკეანის ლოგისტიკა",
+        "intro": "BlueWave Shipping-ში ჩვენ ვიღებთ პასუხისმგებლობას თქვენი მიწოდების ჯაჭვის ოპტიმიზაციაზე ჩვენი კომპლექსური ოკეანის ლოგისტიკური სერვისებით. ჩვენი გლობალური ქსელი უზრუნველყოფს თქვენი ტვირთის ეფექტურ, უსაფრთხო და პროფესიონალურ ტრანსპორტირებას.",
+        "services": [
+          {
+            "title": "გლობალური ტრანსპორტირების მართვა",
+            "content": "თქვენი ტვირთის კოორდინაცია საჰაერო, საზღვაო და სახმელეთო გზით, რათა უზრუნველვყოთ უწყვეტი ლოგისტიკური გამოცდილება."
+          },
+          {
+            "title": "კონტეინერული გადაზიდვები",
+            "content": "სერვისები სრული კონტეინერის დატვირთვისთვის (FCL) და ნაკლები კონტეინერის დატვირთვისთვის (LCL) მოქნილი გადაზიდვის გადაწყვეტილებებისთვის."
+          },
+          {
+            "title": "ტვირთის კონსოლიდაცია",
+            "content": "პატარა გადაზიდვების გაერთიანება დიდ კონტეინერებში ხარჯების დაზოგვისა და ეფექტურობისთვის."
+          },
+          {
+            "title": "პორტიდან პორტამდე და კარიდან კარამდე სერვისები",
+            "content": "სრულიად მართული ლოგისტიკა თქვენი ტვირთის უწყვეტი ტრანსპორტირების უზრუნველსაყოფად."
+          },
+          {
+            "title": "მონიტორინგი და კონტროლი",
+            "content": "რეალურ დროში განახლებები და მიკვლევა გადაზიდვის პროცესის განმავლობაში სრული გამჭვირვალობისთვის."
+          }
+        ],
+        "ctaText": "თუ გსურთ ჩვენი ოკეანის ლოგისტიკური სერვისების შესახებ ინფორმაციის მიღება, დაგვიკავშირდით.",
+        "ctaButton": "დაგვიკავშირდით"
+      },
+      "contact": {
+        "title": "კონტაქტი",
+        "info": {
+          "phone": "ტელეფონი: +123 456 7890",
+          "email": "ელ. ფოსტა: info@bluewaveshipping.com",
+          "address": "ოფისის მისამართი: 123 საზღვაო ქუჩა, ოკეანე სითი"
+        }
+      }
+    }
+  }
+  
+
