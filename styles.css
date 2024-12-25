@@ -354,6 +354,9 @@ section h1 {
   @media (max-width: 768px) {
     font-size: 0.7rem;
   }
+  @media (max-width: 500px) {
+    font-size: 0.5rem;
+  }
 }
 
 .language-switcher {
@@ -462,6 +465,9 @@ section h1 {
 .ship {
   background-color: transparent;
   margin-top: -25%;
+  @media (max-width: 450px) {
+    margin-bottom: 50px;
+  }
 }
 
 #smoke1 {

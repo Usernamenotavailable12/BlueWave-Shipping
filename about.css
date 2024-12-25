@@ -44,6 +44,13 @@
     bottom: -29px;
   }
 }
+.about {
+	.container {
+		@media (max-width: 350px) {
+			margin-bottom: 120px;
+		}
+	}
+}
 .wrap {
   display: flex;
   align-items: center;
@@ -52,7 +59,15 @@
   margin-bottom: 20px;
   --ship-color: rgb(197, 197, 197);
   @media (max-width: 490px) {
-    display: none;
+    .barco {
+		scale: .8;
+	}
+	.agua {
+		height: 40% !important;
+	}
+  }
+  @media (max-width: 350px) { 
+	display: none;
   }
 }
 .barco {
