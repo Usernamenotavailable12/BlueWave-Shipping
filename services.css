@@ -2,7 +2,7 @@
 
 .illustration {
   width: 100%;
-  min-height: 350px;
+  min-height: 390px;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
@@ -13,8 +13,8 @@
     display: none;
   }
   @media (max-width: 768px) {
-    max-height: 320px;
-    min-height: 320px;
+    max-height: 345px;
+    min-height: 345px;
     .ship-scaler {
       height: 62px !important;
     }
