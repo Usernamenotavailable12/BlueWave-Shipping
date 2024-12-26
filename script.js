@@ -230,3 +230,31 @@ window.addEventListener('scroll', () => {
         }
     }
 });
+
+// Function to toggle dark mode
+function toggleDarkMode() {
+  const body = document.body;
+  const darkModeClass = "dark-mode-enabled";
+
+  if (body.classList.contains(darkModeClass)) {
+      body.classList.remove(darkModeClass);
+      localStorage.setItem("darkMode", "disabled");
+  } else {
+      body.classList.add(darkModeClass);
+      localStorage.setItem("darkMode", "enabled");
+  }
+}
+
+// Function to apply the saved dark mode setting on page load
+function applyDarkModeSetting() {
+  const darkMode = localStorage.getItem("darkMode");
+  if (darkMode === "enabled") {
+      document.body.classList.add("dark-mode-enabled");
+  }
+}
+
+// Initialize dark mode setting on page load
+document.addEventListener("DOMContentLoaded", applyDarkModeSetting);
+
+// Attach toggle function to a button (replace 'toggle-dark-mode-btn' with your button's ID or class)
+document.getElementById("toggle-dark-mode-btn").addEventListener("click", toggleDarkMode);

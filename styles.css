@@ -909,3 +909,68 @@ section h1 {
     margin-bottom: 79px;
   }
 }
+.dark-mode-enabled {
+  background-color: rgb(0, 1, 41);
+  p,
+  li,
+  strong {
+    color: white !important;
+  }
+}
+/* General styling for the button */
+.dark-mode-toggle {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 30px;
+  background-color: #ccc;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  outline: none;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  @media (max-width: 768px) {
+    height: 20px;
+  }
+}
+
+/* Indicator inside the toggle */
+.dark-mode-toggle {
+  margin-bottom: 10px;
+  @media (max-width: 768px) {
+    display: block;
+    margin: auto;
+    margin-top: -7px;
+    margin-bottom: 10px;
+  }
+}
+.dark-mode-toggle .toggle-indicator {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  @media (max-width: 768px) {
+    width: 10px;
+    height: 10px;
+  }
+}
+
+/* Active state for dark mode */
+body.dark-mode-enabled .dark-mode-toggle {
+  background-color: rgb(0, 1, 41);
+}
+
+body.dark-mode-enabled .dark-mode-toggle .toggle-indicator {
+  transform: translateX(30px); /* Moves the indicator to the right */
+  background-color: #f1c40f; /* Optional: change indicator color in dark mode */
+  @media (max-width: 768px) {
+    transform: translateX(40px);
+  }
+}
