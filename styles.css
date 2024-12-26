@@ -894,3 +894,18 @@ section h1 {
     transform: translate(-3px, 0);
   }
 }
+.iframe-map-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 109px;
+  justify-content: center;
+  .map-iframe {
+    width: 90%;
+    border-radius: 7px;
+    border-top: solid #0053c08a 4px !important;
+    border-bottom: solid #0053c08a 4px !important;
+  }
+  @media (max-width: 768px) {
+    margin-bottom: 79px;
+  }
+}
