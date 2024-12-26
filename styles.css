@@ -897,7 +897,7 @@ section h1 {
 .iframe-map-container {
   display: flex;
   width: 100%;
-  margin-bottom: 109px;
+  margin-bottom: 139px;
   justify-content: center;
   .map-iframe {
     width: 90%;
@@ -906,7 +906,7 @@ section h1 {
     border-bottom: solid #0053c08a 4px !important;
   }
   @media (max-width: 768px) {
-    margin-bottom: 79px;
+    margin-bottom: 109px;
   }
 }
 .dark-mode-enabled {
