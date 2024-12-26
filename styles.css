@@ -62,13 +62,31 @@ button:hover {
 .header {
   background-image: linear-gradient(90deg, rgb(0, 1, 89), rgb(74, 176, 253));
   padding: 10px 0;
-  border-bottom: 1px solid #ddd;
   font-family: "Ge Font";
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  &.scrolled {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
 }
 
 .header .logo {
-  width: 90px;
+  width: 100px;
   height: 50px;
+  &.desktop {
+    @media (max-width: 768px) {
+      display: none;
+    }
+  }
+  &.mobile {
+    @media (min-width: 768px) {
+      display: none;
+    }
+  }
+}
+a:has(.logo) {
+  height: 50px !important;
 }
 
 .nav {
@@ -235,7 +253,7 @@ button:hover {
 }
 
 .hero h1 {
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   margin-bottom: 20px;
 }
 
@@ -360,7 +378,7 @@ section h1 {
 }
 
 .language-switcher {
-  margin-top: 10px;
+  margin-top: 7px;
 }
 
 /* Responsive Design */

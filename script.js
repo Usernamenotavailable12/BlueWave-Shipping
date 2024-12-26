@@ -199,3 +199,34 @@ document.addEventListener("DOMContentLoaded", () => {
   languageSelect.value = savedLanguage; // Ensure the select shows the correct value
   updateLanguageClass(savedLanguage); // Apply the appropriate class
 });
+
+// Select the header element
+const header = document.querySelector('.header');
+
+// Define the class to add when scrolling down
+const scrolledClass = 'scrolled';
+
+// Create a placeholder element
+const headerPlaceholder = document.createElement('div');
+
+// Add a scroll event listener
+window.addEventListener('scroll', () => {
+    if (window.scrollY > 0) {
+        // Add the placeholder and class if the page is scrolled down
+        if (!header.classList.contains(scrolledClass)) {
+            headerPlaceholder.style.height = `${header.offsetHeight}px`;
+            header.style.transition = 'transform 0.3s ease, background-color 0.3s ease';
+            header.classList.add(scrolledClass);
+            header.parentNode.insertBefore(headerPlaceholder, header);
+        }
+    } else {
+        // Remove the placeholder and class if scrolled back to the top
+        if (header.classList.contains(scrolledClass)) {
+            header.style.transition = 'transform 0.3s ease, background-color 0.3s ease';
+            header.classList.remove(scrolledClass);
+            if (headerPlaceholder.parentNode) {
+                headerPlaceholder.parentNode.removeChild(headerPlaceholder);
+            }
+        }
+    }
+});
