@@ -66,8 +66,8 @@
           }
         ],
         "ctaText": "For more information or to request a service, contact us today!",
-        "ctaButton": "Contact Us"
-      },
+        "ctaButton": "Contact Us",
+"extraText": "1. Container Shipping: <br> - FCL (Full Container Load): Full container load for a single client. <br> - LCL (Less than Container Load): Consolidated shipments where multiple shippers share one container. <br> 2. Tanker and Bulk Liquid Cargo: <br> - Transportation of liquids such as oil, gas, and chemicals using specialized vessels. <br> 3. Bulk and Dry Cargo Shipping: <br> - Dry bulk cargo: coal, grain, ores. <br> - Liquid bulk cargo: chemical substances, vegetable oils. <br> 4. Ro-Ro Shipping (Roll-on/Roll-off): <br> - Transport of vehicles, machinery, and other self-propelled equipment. <br> 5. Project and Oversized Cargo: <br> - Transportation of large, non-standard, or heavy cargo. <br> 6. Door-to-Door Services: <br> - Full logistics solutions from the point of origin to the client's final destination, including land transportation and customs clearance. <br> 7. Storage and Cargo Consolidation: <br> - Port-based warehouse services for temporary storage or cargo consolidation. <br> 8. Customs and Brokerage Services: <br> - Preparation of export/import documentation and assistance with customs clearance. <br> 9. Charter Shipping: <br> - Arrangement of cargo transportation on custom routes using chartered vessels. <br> 10. Packaging and Labeling: <br> - Preparing goods for safe maritime transport."      },
       "oceanLogistics": {
         "title": "Ocean Logistics",
         "intro": "At BlueWave Shipping, we take responsibility for optimizing your supply chain with our comprehensive ocean logistics services. Our global network ensures that your cargo is transported efficiently, safely, and professionally.",
@@ -172,7 +172,8 @@
           }
         ],
         "ctaText": "მეტი ინფორმაციისთვის ან მომსახურების მოთხოვნისთვის, დაგვიკავშირდით დღეს!",
-        "ctaButton": "დაგვიკავშირდით"
+        "ctaButton": "დაგვიკავშირდით",
+        "extraText": "1. კონტეინერით გადაზიდვები: <br> - FCL (სრული კონტეინერის დატვირთვა): სრული კონტეინერი ერთი კლიენტისთვის. <br> - LCL (ნაწილობრივი კონტეინერის დატვირთვა): საკონსოლიდაციო ტვირთები, როცა ერთი კონტეინერი იყოფა რამდენიმე გამგზავნზე. <br> 2. ტანკერით და თხევადი ტვირთის გადაზიდვა: <br> - თხევადი ნივთიერებების (ნავთობი, გაზი, ქიმიური ნივთიერებები) სპეციალიზებული გემებით გადაზიდვა. <br> 3. ნაყარი და მშრალი ტვირთის გადაზიდვა: <br> - მშრალი ნაყარი ტვირთები: ნახშირი, მარცვლეული, მადნები. <br> - თხევადი ნაყარი ტვირთები: ქიმიური ნივთიერებები, მცენარეული ზეთი. <br> 4. რო-რო გადაზიდვები (Roll-on/Roll-off): <br> - ტრანსპორტის, ტექნიკის და სხვა თვითმავალი მოწყობილობების გადაზიდვა. <br> 5. პროექტული და არასტანდარტული ტვირთები: <br> - დიდი, არასტანდარტული ან მძიმე ტვირთების გადაზიდვა. <br> 6. კარის კარამდე სერვისები (Door-to-Door): <br> - სრული ლოგისტიკური გადაწყვეტილებები გამგზავნიდან საბოლოო მისამართამდე, მათ შორის სახმელეთო ტრანსპორტი და საბაჟო გაფორმება. <br> 7. ტვირთის შენახვა და კონსოლიდაცია: <br> - პორტში საწყობების მომსახურება დროებითი შენახვის ან ტვირთების კონსოლიდაციისთვის. <br> 8. საბაჟო და ბროკერული მომსახურება: <br> - ექსპორტისა და იმპორტის დოკუმენტაციის მომზადება და საბაჟო პროცედურებში დახმარება. <br> 9. ჩარტერული გადაზიდვები: <br> - ტვირთის ტრანსპორტირება მორგებული მარშრუტებით ჩარტერული გემების გამოყენებით. <br> 10. შეფუთვა და მარკირება: <br> - ტვირთის მომზადება უსაფრთხო საზღვაო გადაზიდვისთვის."
       },
       "oceanLogistics": {
         "title": "ოკეანის ლოგისტიკა",

@@ -84,6 +84,7 @@ function updateLanguage(lang) {
 
     // Update CTA
     document.querySelector(".cta p").textContent = services.ctaText;
+    document.querySelector(".extra p").innerHTML = services.extraText;
     document.querySelector(".cta .cta-button").textContent = services.ctaButton;
   }
 
