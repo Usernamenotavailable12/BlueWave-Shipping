@@ -1,0 +1,217 @@
+{
+    "en": {
+      "header": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "oceanLogistics": "Ocean Logistics",
+        "contact": "Contact"
+      },
+      "hero": {
+        "title": "Your Trusted Partner for Global Shipping and Ocean Logistics",
+        "subtitle": "Simplified Ship Chartering, Ocean Logistics, and Maritime Agency Services",
+        "cta": "Request a Quote"
+      },
+      "intro": {
+        "text": "Welcome to BlueWave Shipping. We are your dependable partner in global ship chartering, ocean freight logistics, and cargo transportation solutions. Our extensive expertise spans various types of cargo, including tankers, bulk shipments, and heavy loads, ensuring seamless, efficient, and secure operations. Whether navigating coastal waters or deep-sea routes, we are committed to delivering exceptional service tailored to meet your logistics needs."
+      },
+      "footer": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "oceanLogistics": "Ocean Logistics",
+        "contact": "Contact"
+      },
+      "about": {
+        "title": "About Us",
+        "content": "At BlueWave Shipping, we specialize in ocean logistics and ship chartering, providing a wide range of services to meet the complex demands of global shipping. Our experienced team and global network guarantee safe, efficient, and cost-optimized transportation across all maritime routes and port operations.",
+        "missionTitle": "Our Mission",
+        "missionContent": "To deliver reliable, cost-efficient, and effective ocean logistics and maritime services that meet the unique needs of our global clients.",
+        "whyChooseTitle": "Why Choose Us",
+        "whyChooseList": [
+          "<strong>Global Expertise:</strong> Operating in major international ports and maritime routes.",
+          "<strong>Comprehensive Solutions:</strong> Managing all aspects of your cargo journey, from ocean logistics to full maritime agency services.",
+          "<strong>Experienced Team:</strong> Our professional team ensures seamless and timely delivery of services."
+        ]
+      },
+      "services": {
+        "title": "Our Services",
+        "items": [
+          {
+            "title": "Ship Chartering & Turnaround",
+            "content": "Customized chartering services for vessels of all sizes. Expert handling of dry and liquid bulk, project cargo, and heavy freight."
+          },
+          {
+            "title": "Ocean Logistics Services",
+            "list": [
+              "<strong>Transport Agency:</strong> Coordinating international shipments across multiple transport modes.",
+              "<strong>Service Management:</strong> Optimizing logistics processes for cost efficiency and improved delivery times.",
+              "<strong>Warehousing & Distribution:</strong> Offering storage and inventory management solutions for streamlined distribution.",
+              "<strong>Documentation Management:</strong> Handling import/export documentation and regulatory compliance."
+            ]
+          },
+          {
+            "title": "Maritime Agency Services",
+            "list": [
+              "Berth Reservation",
+              "Pilot, Tug, and Mooring Services",
+              "Port Formalities",
+              "Cargo Operations Support",
+              "Crew Assistance",
+              "Emergency Support",
+              "Freshwater Supply",
+              "Bunkering Services",
+              "Provisioning"
+            ]
+          }
+        ],
+        "ctaText": "For more information or to request a service, contact us today!",
+        "ctaButton": "Contact Us",
+"extraText": "1. Container Shipping: <br> - FCL (Full Container Load): Full container load for a single client. <br> - LCL (Less than Container Load): Consolidated shipments where multiple shippers share one container. <br> 2. Tanker and Bulk Liquid Cargo: <br> - Transportation of liquids such as oil, gas, and chemicals using specialized vessels. <br> 3. Bulk and Dry Cargo Shipping: <br> - Dry bulk cargo: coal, grain, ores. <br> - Liquid bulk cargo: chemical substances, vegetable oils. <br> 4. Ro-Ro Shipping (Roll-on/Roll-off): <br> - Transport of vehicles, machinery, and other self-propelled equipment. <br> 5. Project and Oversized Cargo: <br> - Transportation of large, non-standard, or heavy cargo. <br> 6. Door-to-Door Services: <br> - Full logistics solutions from the point of origin to the client's final destination, including land transportation and customs clearance. <br> 7. Storage and Cargo Consolidation: <br> - Port-based warehouse services for temporary storage or cargo consolidation. <br> 8. Customs and Brokerage Services: <br> - Preparation of export/import documentation and assistance with customs clearance. <br> 9. Charter Shipping: <br> - Arrangement of cargo transportation on custom routes using chartered vessels. <br> 10. Packaging and Labeling: <br> - Preparing goods for safe maritime transport."      },
+      "oceanLogistics": {
+        "title": "Ocean Logistics",
+        "intro": "At BlueWave Shipping, we take responsibility for optimizing your supply chain with our comprehensive ocean logistics services. Our global network ensures that your cargo is transported efficiently, safely, and professionally.",
+        "services": [
+          {
+            "title": "Global Transportation Management",
+            "content": "Coordinating your shipments via air, sea, and land to ensure a seamless logistics experience."
+          },
+          {
+            "title": "Container Shipping",
+            "content": "Services for full container loads (FCL) and less-than-container loads (LCL) for flexible shipping solutions."
+          },
+          {
+            "title": "Cargo Consolidation",
+            "content": "Combining smaller shipments into larger containers to achieve cost savings and efficiency."
+          },
+          {
+            "title": "Port-to-Port & Door-to-Door Services",
+            "content": "Fully managed logistics for seamless end-to-end transport of your cargo."
+          },
+          {
+            "title": "Monitoring & Control",
+            "content": "Real-time updates and tracking throughout the shipping process for complete transparency."
+          }
+        ],
+        "ctaText": "For inquiries about our ocean logistics services, feel free to get in touch with us.",
+        "ctaButton": "Contact Us"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "info": {
+          "phone": "Phone: TBT",
+          "email": "Email: TBT",
+          "address": "Office Address: TBT"
+        }
+      }
+    },
+    "ge": {
+      "header": {
+        "home": "მთავარი",
+        "about": "ჩვენს შესახებ",
+        "services": "სერვისები",
+        "oceanLogistics": "ოკეანის ლოგისტიკა",
+        "contact": "კონტაქტი"
+      },
+      "hero": {
+        "title": "თქვენი სანდო პარტნიორი გლობალური გადაზიდვების და ოკეანის ლოჯისტიკაში",
+        "subtitle": "მარტივი გემის ჩარტინგი, ოკეანური ლოჯისტიკა და საზღვაო აგენტური მომსახურება",
+        "cta": "მოთხოვნა"
+      },
+      "intro": {
+        "text": "კეთილი იყოს თქვენი მობრძანება BlueWave Shipping-ში. ჩვენ ვართ თქვენი საიმედო ლოჯისტიკური პარტნიორი, რომელიც გთავაზობთ გლობალურ გემის ჩარტინგის, ოკეანური ლოჯისტიკისა და ტვირთის გადაზიდვის გადაწყვეტილებებს. ჩვენი ფართო გამოცდილება სხვადასხვა ტიპის ტვირთებზე - ტანკერებიდან დაწყებული და მძიმე ტვირთებით დამთავრებული - უზრუნველყოფს ეფექტურ და უსაფრთხო ოპერაციებს სანაპირო და ღრმა ზღვის მარშრუტებზე."
+      },
+      "footer": {
+        "home": "მთავარი",
+        "about": "ჩვენს შესახებ",
+        "services": "სერვისები",
+        "oceanLogistics": "ოკეანის ლოგისტიკა",
+        "contact": "კონტაქტი"
+      },
+      "about": {
+        "title": "ჩვენს შესახებ",
+        "content": "BlueWave Shipping-ში, ჩვენ სპეციალიზირდებით ოკეანური ლოჯისტიკისა და გემის ჩარტინგში, გთავაზობთ ფართო სპექტრის მომსახურებას, რომელიც საშუალებას იძლევა გავუმკლავდეთ გლობალური გადაზიდვების რთულ მოთხოვნებს. ჩვენი გამოცდილი გუნდი და გლობალური ქსელი უზრუნველყოფს უსაფრთხო, ეფექტურ და ხარჯების ოპტიმიზირებულ ტრანსპორტაციას ყველა საზღვაო მარშრუტზე და პორტის ოპერაციებში.",
+        "missionTitle": "ჩვენი მისია",
+        "missionContent": "მოაწოდოს საიმედო, ხარჯების ეფექტური და ეფექტური ოკეანური ლოჯისტიკა და საზღვაო მომსახურება, რომელიც აკმაყოფილებს ჩვენი გლობალური კლიენტების უნიკალურ საჭიროებებს.",
+        "whyChooseTitle": "რატომ აგვირჩიოთ ჩვენ?",
+        "whyChooseList": [
+          "<strong>გლობალური ექსპერტიზა:</strong>  ჩვენ ვმუშაობთ ძირითადი საერთაშორისო პორტებსა და საზღვაო მარშრუტებზე.",
+          "<strong>მოცულობითი გადაწყვეტილებები:</strong> ოკეანური ლოჯისტიკიდან სრულ საზღვაო აგენტურამდე, ჩვენ ვმართავთ თქვენს ტვირთის მოგზაურობის ყველა ასპექტს.",
+          "<strong>გამოცდილი გუნდი:</strong> ჩვენი პროფესიონალი გუნდი უზრუნველყოფს დასრულებულ მომსახურებას, რაც უზრუნველყოფს სუსტი და დროული მიწოდება."
+        ]
+      },
+      "services": {
+        "title": "ჩვენი სერვისები",
+        "items": [
+          {
+            "title": "გემის ჩარტინგი & ბრუნვა",
+            "content": "მორგებული ჩარტინგის მომსახურებები ყველა ზომის გემისთვის. პროფესიონალური ბრუნვა მშრალი და სითხე ბორკილის, პროექტის ტვირთის და მძიმე ტვირთებისათვის."
+          },
+          {
+            "title": "ოკეანური ლოჯისტიკის მომსახურება",
+            "list": [
+              "<strong>ტრანსპორტირების აგენტურა:</strong> საერთაშორისო გადაზიდვების კოორდინირება სხვადასხვა ტრანსპორტირების რეჟიმებში.",
+              "<strong>მომსახურების მართვა:</strong> ლოჯისტიკის პროცესების ოპტიმიზაცია ხარჯების ეფექტურობისა და მიწოდების დროის გაუმჯობესებისთვის.",
+              "<strong>საწყობი & დისტრიბუცია:</strong> გთავაზობთ შენახვისა და ინვენტარის მართვის გადაწყვეტილებებს სქემის განაწილებისთვის.",
+              "<strong>მისტიკური ბრუნვა:</strong> ყველა იმპორტისა და ექსპორტის დოკუმენტაციისა და რეგულაციების საკითხების გადაჭრა."
+            ]
+          },
+          {
+            "title": "საზღვაო აგენტურის მომსახურება",
+            "list": [
+              "ბერქი რეზერვაცია: პორტების განრიგის მართვა და დროული ბერქების დაჯავშნა.",
+              "პილოტი, თაგი და ხაზოვანი სამსახურის კოორდინირება: აუცილებელი პორტის მომსახურებების მოწყობა უსაფრთხო ნავიგაციისთვის და დოკირებისას.",
+              "პორტის ფორმალობები: პორტის პროცედურების მართვა და კოორდინირება.",
+              "ტვირთის ოპერაციების მხარდაჭერა: ტვირთის გადატანა და ოპერაციებს ჩატარება სწორი და უსაფრთხო პროცესებისთვის.",
+              "ცუდი გარემოს დახმარება: სამედიცინო დახმარების, საკვები და ტრანსპორტის უზრუნველყოფა ეკიპაჟისთვის.",
+              "მოთხოვნები და ნავიგაციის დახმარება: საწარმოო და საგანგებო გამართვა გემზე.",
+              "პალუ წყლის უზრუნველყოფა: წყლის მიწოდება მორგებული გემებისთვის.",
+              "ბუნკერი მომსახურება: საწვავის მარაგის ორგანიზება ოპერაციების დამუშავებისათვის.",
+              "მაღაზიის დამატება: გემის დასაწყობი საშუალების დაგეგმვა."
+            ]
+          }
+        ],
+        "ctaText": "მეტი ინფორმაციისთვის ან მომსახურების მოთხოვნისთვის, დაგვიკავშირდით დღეს!",
+        "ctaButton": "დაგვიკავშირდით",
+        "extraText": "1. კონტეინერით გადაზიდვები: <br> - FCL (სრული კონტეინერის დატვირთვა): სრული კონტეინერი ერთი კლიენტისთვის. <br> - LCL (ნაწილობრივი კონტეინერის დატვირთვა): საკონსოლიდაციო ტვირთები, როცა ერთი კონტეინერი იყოფა რამდენიმე გამგზავნზე. <br> 2. ტანკერით და თხევადი ტვირთის გადაზიდვა: <br> - თხევადი ნივთიერებების (ნავთობი, გაზი, ქიმიური ნივთიერებები) სპეციალიზებული გემებით გადაზიდვა. <br> 3. ნაყარი და მშრალი ტვირთის გადაზიდვა: <br> - მშრალი ნაყარი ტვირთები: ნახშირი, მარცვლეული, მადნები. <br> - თხევადი ნაყარი ტვირთები: ქიმიური ნივთიერებები, მცენარეული ზეთი. <br> 4. რო-რო გადაზიდვები (Roll-on/Roll-off): <br> - ტრანსპორტის, ტექნიკის და სხვა თვითმავალი მოწყობილობების გადაზიდვა. <br> 5. პროექტული და არასტანდარტული ტვირთები: <br> - დიდი, არასტანდარტული ან მძიმე ტვირთების გადაზიდვა. <br> 6. კარის კარამდე სერვისები (Door-to-Door): <br> - სრული ლოგისტიკური გადაწყვეტილებები გამგზავნიდან საბოლოო მისამართამდე, მათ შორის სახმელეთო ტრანსპორტი და საბაჟო გაფორმება. <br> 7. ტვირთის შენახვა და კონსოლიდაცია: <br> - პორტში საწყობების მომსახურება დროებითი შენახვის ან ტვირთების კონსოლიდაციისთვის. <br> 8. საბაჟო და ბროკერული მომსახურება: <br> - ექსპორტისა და იმპორტის დოკუმენტაციის მომზადება და საბაჟო პროცედურებში დახმარება. <br> 9. ჩარტერული გადაზიდვები: <br> - ტვირთის ტრანსპორტირება მორგებული მარშრუტებით ჩარტერული გემების გამოყენებით. <br> 10. შეფუთვა და მარკირება: <br> - ტვირთის მომზადება უსაფრთხო საზღვაო გადაზიდვისთვის."
+      },
+      "oceanLogistics": {
+        "title": "ოკეანის ლოგისტიკა",
+        "intro": "BlueWave Shipping-ში ჩვენ ვიღებთ პასუხისმგებლობას თქვენი მიწოდების ჯაჭვის ოპტიმიზაციაზე ჩვენი კომპლექსური ოკეანის ლოგისტიკური სერვისებით. ჩვენი გლობალური ქსელი უზრუნველყოფს თქვენი ტვირთის ეფექტურ, უსაფრთხო და პროფესიონალურ ტრანსპორტირებას.",
+        "services": [
+          {
+            "title": "გლობალური ტრანსპორტირების მართვა",
+            "content": "თქვენი ტვირთის კოორდინაცია საჰაერო, საზღვაო და სახმელეთო გზით, რათა უზრუნველვყოთ უწყვეტი ლოგისტიკური გამოცდილება."
+          },
+          {
+            "title": "კონტეინერული გადაზიდვები",
+            "content": "სერვისები სრული კონტეინერის დატვირთვისთვის (FCL) და ნაკლები კონტეინერის დატვირთვისთვის (LCL) მოქნილი გადაზიდვის გადაწყვეტილებებისთვის."
+          },
+          {
+            "title": "ტვირთის კონსოლიდაცია",
+            "content": "პატარა გადაზიდვების გაერთიანება დიდ კონტეინერებში ხარჯების დაზოგვისა და ეფექტურობისთვის."
+          },
+          {
+            "title": "პორტიდან პორტამდე და კარიდან კარამდე სერვისები",
+            "content": "სრულიად მართული ლოგისტიკა თქვენი ტვირთის უწყვეტი ტრანსპორტირების უზრუნველსაყოფად."
+          },
+          {
+            "title": "მონიტორინგი და კონტროლი",
+            "content": "რეალურ დროში განახლებები და მიკვლევა გადაზიდვის პროცესის განმავლობაში სრული გამჭვირვალობისთვის."
+          }
+        ],
+        "ctaText": "თუ გსურთ ჩვენი ოკეანის ლოგისტიკური სერვისების შესახებ ინფორმაციის მიღება, დაგვიკავშირდით.",
+        "ctaButton": "დაგვიკავშირდით"
+      },
+      "contact": {
+        "title": "კონტაქტი",
+        "info": {
+          "phone": "ტელეფონი: TBT",
+          "email": "ელ. ფოსტა: TBT",
+          "address": "ოფისის მისამართი: TBT"
+        }
+      }
+    }
+  }
+  
+
